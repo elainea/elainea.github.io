@@ -4,7 +4,7 @@ email: ""
 description: "Associate Professor"
 repository: "elainea/eastrand.github.io"
 
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@latest"
 
 minimal_mistakes_skin: "default"   # choose: air, contrast, dark, mint, neon, solarized, etc.
 
